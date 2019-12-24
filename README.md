@@ -1,2 +1,2 @@
-# Java-Blackjack
-Blackjack Game written in Java
+# Python-Blackjack
+Blackjack Game written in Python
