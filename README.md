@@ -4,4 +4,4 @@ Blackjack Game written in Python
 1. Download the repository
 2. Run game.py
 ## Example Game
-<img src="example.JPG">
+<img src="example.JPG" width="500">
